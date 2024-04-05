@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 import "@openzeppelin/contracts/utils/Strings.sol";
 import "contracts/ERC404.sol";
 
-contract N2DErc404 is ERC404 {
+contract MYDERC404 is ERC404 {
     string public dataURI;
     string public baseTokenURI;
     string public metaDescription;
